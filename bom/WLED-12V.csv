@@ -1,0 +1,9 @@
+"ID";"指示符";"软件包";"数量";"名称";"供应商和参考";
+1;"C1";"C_0805_2012Metric";1;"0.22uF";;;
+2;"U1";"NodeMCU-LoLinV3";1;"NodeMCU1.0(ESP-12E)";;;
+3;"R1";"R_0805_2012Metric";1;"10K";;;
+4;"J1";"TerminalBlock_MetzConnect_Type055_RT01502HDWU_1x02_P5.00mm_Horizontal";1;"Screw_Terminal_01x02";;;
+5;"J2";"TerminalBlock_MetzConnect_Type055_RT01503HDWU_1x03_P5.00mm_Horizontal";1;"Screw_Terminal_01x03";;;
+6;"U2";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+7;"U3";"VSSOP-8_2.4x2.1mm_P0.5mm";1;"SN74LVC2T45DCUR";;;
+8;"C2,C4,C3";"C_0805_2012Metric";3;"0.1uF";;;
